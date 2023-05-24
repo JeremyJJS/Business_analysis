@@ -1,5 +1,5 @@
 # Business_analysis
-Collect of data and code related to Pyhton,MYSQL and PoweBI
+
 The file contains data along with SQL code which was written in MYSQL.
 The data was taken from  https://data.gov/ site and question were analysed and answered using the queries.
 There are Total 8 questions in the txt file mentioned in the folder.
